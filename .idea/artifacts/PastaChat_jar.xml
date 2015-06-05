@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PastaChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PastaChat_jar</output-path>
+    <root id="archive" name="PastaChat.jar">
+      <element id="module-output" name="PastaChat" />
+      <element id="library" level="project" name="gson-2.2.4" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mcprotocollib-1.8-20150503.232713-23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
